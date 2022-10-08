@@ -1,6 +1,6 @@
 # Playing with GrovePi+ development board
 ---
-GrovePi+ a good extension board from [Dexter Industries](https://www.dexterindustries.com/grovepi/). 
+GrovePi+ is a good extension board from [Dexter Industries](https://www.dexterindustries.com/grovepi/). 
 
 ![](images/GrovePi-Plus.jpg)
 
