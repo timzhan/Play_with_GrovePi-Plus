@@ -8,7 +8,7 @@
 - GrovePi+
 - **Grove Sound Sensor**
 
-  <img src="Grove_Sound_Sensor/Grove_Sound_Sensor.jpg" width=50%>
+  <img src="Grove_Sound_Sensor/Grove_Sound_Sensor.jpg" width=30%>
 
     Grove Sound Sensor can detect the sound intensity of the environment. The main component of the module is a simple `microphone`, which is based on the L358 amplifier and an electret microphone. This module's output is analog and can be easily sampled and tested by a Seeeduino.
 
